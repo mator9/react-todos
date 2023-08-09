@@ -1,9 +1,9 @@
 import React from "react";
-import { useState } from "react";
+// import { useState } from "react";
 import Todos from "./components/Todos";
-import logo from "./logo.svg";
+// import logo from "./logo.svg";
 import "./App.css";
-import Todo from "./models/todo";
+// import Todo from "./models/todo";
 import NewTodo from "./components/NewTodo";
 import TodosContextProvider from "./store/todos-context";
 
